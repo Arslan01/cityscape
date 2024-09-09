@@ -26,7 +26,6 @@ dist-ssr
 
 # Code files to ignore
 HomeFive 
-src
 ./.../src/Pages/HomeFive
 ./.../src/Pages/HomeSix
 ./.../src/Pages/HomeSeven
