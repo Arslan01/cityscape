@@ -26,9 +26,6 @@ dist-ssr
 
 # Code files to ignore
 HomeFive 
-./.../src/Pages/HomeFive
-./.../src/Pages/HomeSix
-./.../src/Pages/HomeSeven
 MapLocation
 HomeFive
 HomeFour
