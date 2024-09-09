@@ -1,0 +1,42 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+src
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Code files to ignore
+HomeFive 
+src
+./.../src/Pages/HomeFive
+./.../src/Pages/HomeSix
+./.../src/Pages/HomeSeven
+MapLocation
+HomeFive
+HomeFour
+FaqPage
+Property
+src/common
+public 
+public/assets
+# assets
+
